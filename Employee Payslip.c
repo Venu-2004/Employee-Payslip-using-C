@@ -98,3 +98,4 @@ void main()
     printf("\nIncome Tax                        : %.2f", it); 
     printf("\nNet Salary                        : %.2f", netsal); 
 }
+
